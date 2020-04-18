@@ -24,7 +24,7 @@ namespace Bai1
 
             while (!regex.IsMatch(name))
             {
-                Console.Write("Nhập lại tên: ");
+                Console.Write("Nhập lại tên lần nữa: ");
                 name = Console.ReadLine();
             }
 
