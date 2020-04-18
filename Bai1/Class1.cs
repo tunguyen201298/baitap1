@@ -8,5 +8,6 @@ namespace Bai1
 {
     class Class1
     {
+        public string s { get; set; }
     }
 }
